@@ -9,4 +9,4 @@ It is available in two languages - English and Portuguese. Each screen view with
 
 >Currently, this app **is not publicaly available** due to a third party interest. Futher notice will be updated here.
 
->To know more about the development of this combined system, **disMAT** and **Discalculia Web**, please see the video [here](https://github.com/disMAT/disMAT_app/blob/main/AIchildrenandmath_.mp4), info [here](tobedisclosed) or contact [Filipa Ferraz](filipatferraz@gmail.com).
+>To know more about the development of this combined system, **disMAT** and **Discalculia Web**, please see the video [here](https://github.com/disMAT/disMAT_app/blob/main/AIchildrenandmath_.mp4), [here](https://youtu.be/kzg-lyjhoNA), or contact [Filipa Ferraz](filipatferraz@gmail.com).
